@@ -1,0 +1,8 @@
+.icon-wrapper {
+  display: flex;
+  position: absolute;
+  padding: 0px !important;
+  right: 15px;
+  background: #f4f4f4;
+  box-shadow: -2px 0px 2px #0000001a !important;
+}
